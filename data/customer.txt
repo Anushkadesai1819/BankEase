@@ -1,0 +1,130 @@
+Account Number:1000
+Name:Anushka Desai
+Age:20
+Gender:f
+Mobile No:9313062889
+Address:8 nairobi colony college road abcd
+Aadhar:123456798912
+PAN:abcde1234f
+Balance:500.00
+-------------------------
+Account Number:1001
+Name:Manan Desai
+Age:53
+Gender:m
+Mobile No:9824489929
+Address:8 nairobi colony college road nadiad
+Aadhar:098765432123
+PAN:qwert4567g
+Balance: 0000900.00
+--------------------
+Account Number:1002
+Name:Raina Desao
+Age:48
+Gender:f
+Mobile No:9104694162
+Address:8 nairobi collony college road nadiad
+Aadhar:234567654323
+PAN:dfght5678h
+Balance:500.00
+-------------------------
+Account Number:1003
+Name:Pranjal desai
+Age:25
+Gender:f
+Mobile No:6354431733
+Address:shrinand city 5 new maninagar
+Aadhar:987654567876
+PAN:cvbnm3456g
+Balance:500.00
+-------------------------
+Account Number:1004
+Name:Rikin shah 
+Age:25
+Gender:m
+Mobile No:9876546755
+Address:shrinand city 5 new maninagar
+Aadhar:234567876543
+PAN:drfgt5678j
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:3223
+Age:0
+Gender:f
+Mobile No:1234567890
+Address:243de
+Aadhar:123456789090
+PAN:mfdfs3060h
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:Anushka Desai
+Age:12
+Gender:f
+Mobile No:1234567890
+Address:lrf,elrf,elkfe,
+Aadhar:123456789087
+PAN:abcfgdsfgh
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:Anushka Desai
+Age:12
+Gender:f
+Mobile No:1234567890
+Address:lrf,elrf,elkfe,
+Aadhar:123456789087
+PAN:abcdf12345
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:Anushka Desai
+Age:12
+Gender:f
+Mobile No:1234567890
+Address:lrf,elrf,elkfe,
+Aadhar:123456789087
+PAN:abcdf12345
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:Anushka Desai
+Age:12
+Gender:f
+Mobile No:1234567890
+Address:lrf,elrf,elkfe,
+Aadhar:123456789087
+PAN:f
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:Anushka Desai
+Age:12
+Gender:f
+Mobile No:1234567890
+Address:lrf,elrf,elkfe,
+Aadhar:123456789087
+PAN:abcdr1234f
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:Anushka Desai
+Age:12
+Gender:f
+Mobile No:8765431234
+Address:ocqijrkf
+Aadhar:123456789098
+PAN:abcde1234f
+Balance:500.00
+-------------------------
+Account Number:1000
+Name:43
+Age:12
+Gender:f
+Mobile No:1234567898
+Address:fgerhfj
+Aadhar:123456555555
+PAN:asdfg1234r
+Balance:500.00
+-------------------------
